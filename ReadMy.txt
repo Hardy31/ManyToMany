@@ -1,0 +1,5 @@
+information sources
+    https://www.baeldung.com/jpa-many-to-many
+
+        example04
+            https://www.baeldung.com/jpa-composite-primary-keys
